@@ -1,7 +1,7 @@
 {
   "name": "eratosthenes",
   "version": "1.0.0",
-  "description": "",
+  "description": "An ancient algorithm for finding all prime numbers up to any given limit",
   "main": "lib/index",
   "types": "lib/index",
   "scripts": {
